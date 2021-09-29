@@ -1,4 +1,11 @@
-#  About
+---
+title: about
+date: 2021-09-29 9:21
+description: About us
+tags: about
+---
+
+# About
 
 The Hackley CS Club is Hackley School's Computer Science club. 
 
